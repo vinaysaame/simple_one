@@ -1,4 +1,5 @@
 #write a function of fabonacci series
+print("fibonnaci series:")
 def fabinocci(x):
     n1=0
     n2=1
